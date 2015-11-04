@@ -8,8 +8,8 @@ The cloud migration is broken down into four major phased:
 
 2. Alpha: This phase focuses on easy, demonstrable migrations. The goal is to choose applications and services that are easy to migrate.
 
-  * [Post Alpha retrospective](https://github.com/18F/infrastructure-modernization/wiki/alpha-retro)
-  * [Metrics workshop](https://github.com/18F/infrastructure-modernization/wiki/metrics-workshop)
+  * [Post Alpha retrospective](./PostAlphaRetro.md)
+  * [Metrics workshop](./MetricsWorkshop.md)
 
 3. Beta: This phase focuses on the cost to footprint ratio. The goal is to migrate (in order) simple applications with significant running costs.
 
