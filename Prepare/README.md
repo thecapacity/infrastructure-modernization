@@ -1,6 +1,6 @@
 # Prepare
 
-The goal of this phase is the investigate the candidate applications for migration to the cloud.
+The goal of this phase is to investigate the candidate applications for migration to the cloud.
 
   * [Make a list of candidate applications](./List-candidate-applications.md)
 
